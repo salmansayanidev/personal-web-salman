@@ -139,7 +139,7 @@ body{
     opacity: 0;
     padding: 150px 0;
     transition: 1s all ease-in-out;
-}
+}   
 .navigations.block {
     transition: 1s all ease-in-out;
     right: 0;
