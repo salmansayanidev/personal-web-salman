@@ -141,7 +141,6 @@ body{
     transition: 1s all ease-in-out;
 }
 .navigations.block {
-
     transition: 1s all ease-in-out;
     right: 0;
     opacity: 1;
